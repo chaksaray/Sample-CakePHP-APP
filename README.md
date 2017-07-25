@@ -1,9 +1,10 @@
 # Sample-CakePHP-APP
-Sample CakePHP app. Example of using:
-- Routing navigation
+Sample CakePHP app. Example of:
+- MVC
+- Routing
 - Redirect route
 - Routing with arguments
 - Set action
 - Extend view
-- View Element
+- Element view
 - and Database manipulation, CRUD
